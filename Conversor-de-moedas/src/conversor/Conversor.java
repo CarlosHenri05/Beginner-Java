@@ -47,7 +47,7 @@ public class Conversor {
                 System.out.println("Muito obrigado e até logo!");
                 valor.close();
 
-''
+
 
         }
 
