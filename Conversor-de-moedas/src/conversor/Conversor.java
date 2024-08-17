@@ -36,7 +36,7 @@ public class Conversor {
                 break;
 
             case 3:
-                System.out.println("O preço convertido do valor dito em iene no dia é/era : " +moedas.iene*preco);
+                System.out.println("O preço convertido do valor dito em iene no dia é/era : R$ " +moedas.iene*preco);
                 break;
 
             default:
